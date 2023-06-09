@@ -1,6 +1,6 @@
 # Internshala Data Scraping
 
-This project is a Python script that utilizes the BeautifulSoup library to scrape data from Internshala website. It focuses on extracting information related to matching preferences for internships.
+This project is a Python script that utilizes the BeautifulSoup library to scrape data from Internshala website. It focuses on extracting information related to jobs posted on the website.
 
 #### Key Features:
 
